@@ -1,5 +1,7 @@
 # Simulateur de crédit
 
+🔗 **Lien de l'application :** [Simulateur de Crédit](https://simulateur-credit-houssaine.streamlit.app)
+
 Application web qui calcule la mensualité d'un crédit et affiche le tableau d'amortissement.
 
 ## Fonctionnalités
@@ -22,3 +24,4 @@ streamlit run app.py
 ![Aperçu1](screenshot1.png)
 ![Aperçu2](screenshot2.png)
 ![Aperçu3](screenshot3.png)
+

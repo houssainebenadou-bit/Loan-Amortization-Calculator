@@ -19,6 +19,6 @@ streamlit run app.py
 ## Aperçu
 
 
-![Aperçu](screenshot1.png)
-![Aperçu](screenshot2.png)
-![Aperçu](screenshot3.png)
+![Aperçu1](screenshot1.png)
+![Aperçu2](screenshot2.png)
+![Aperçu3](screenshot3.png)

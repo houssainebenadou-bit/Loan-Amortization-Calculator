@@ -1,6 +1,7 @@
 # Simulateur de crédit
 
-🔗 **Lien de l'application :** [Simulateur de Crédit](https://simulateur-credit-houssaine.streamlit.app)
+🔗 Lien de l'application : [Easy Loan Amortization](https://easy-loan-amortization.streamlit.app)
+
 
 Application web qui calcule la mensualité d'un crédit et affiche le tableau d'amortissement.
 

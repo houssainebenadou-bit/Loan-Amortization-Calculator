@@ -1,4 +1,4 @@
-# Simulateur de crédit
+# Loan Amortization Calculator
 
 🔗 Lien de l'application : [Easy Loan Amortization](https://easy-loan-amortization.streamlit.app)
 
